@@ -12,6 +12,6 @@
 - ⚙️ I use daily: `.go` and a lot of cool things
 - 🌍 I'm mostly active within the **Golang Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design patterns**, **golang**, **testing**, **development**, **thinking** 
+- 💬 Ping me about **design patterns**, **golang**, **testing**, **development**
 - 📫 Reach me: [twitter.com/WrandowR](https://twitter.com/WrandowR)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
