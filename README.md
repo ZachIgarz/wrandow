@@ -16,4 +16,4 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design patterns**, **golang**, **testing**, **development**
 - 📫 Reach me: [twitter.com/WrandowR](https://twitter.com/WrandowR)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter and Love fancy restaurants 
