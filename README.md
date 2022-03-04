@@ -17,4 +17,4 @@ Winner of the **IPCOM** innovation challenge 2021
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design patterns**, **golang**, **testing**, **development**
 - 📫 Reach me: [twitter.com/WrandowR](https://twitter.com/WrandowR)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter and Anime c: 
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter and Formula 1 🏎 🏎
