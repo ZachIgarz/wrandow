@@ -7,7 +7,7 @@ Winner of the **IPCOM** innovation challenge 2021
 
 ##### NOW
 
-- 🍑 What about this?
+Jacques Rigaut, escribió: No olvides que yo no puedo verme, que mi papel se limita a ser el que mira el espejo.
 
 ##### BIO
 
