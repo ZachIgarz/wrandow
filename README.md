@@ -16,5 +16,5 @@ Jacques Rigaut, escribió: No olvides que yo no puedo verme, que mi papel se lim
 - 🌍 I'm mostly active within the **Golang Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design patterns**, **golang**, **testing**, **development**
-- 📫 Reach me: [twitter.com/WrandowR](https://twitter.com/WrandowR)
+- 📫 Reach me: [twitter.com/WrandowR](https://twitter.com/....)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter and Formula 1 🏎 🏎
