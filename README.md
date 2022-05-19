@@ -3,7 +3,7 @@
 #### I'm a Backend Developer.
 Winner of the **IPCOM** innovation challenge 2021
 
-<img align='right' src='https://i.giphy.com/media/YOYrc49H7XWmpXptTw/giphy.gif' width='200'>
+<img align="'right' src='https://i.giphy.com/media/YOYrc49H7XWmpXptTw/giphy.gif' width='200'">
 
 ##### NOW
 
