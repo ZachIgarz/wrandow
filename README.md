@@ -4,7 +4,7 @@
 Winner of the **IPCOM** innovation challenge 2021
 
 
-  <img align='right' src='https://i.giphy.com/media/YOYrc49H7XWmpXptTw/giphy.gif' width='200'>
+  <img align='right' src='https://up.gc-img.net/post_img/2021/03/xKueHYnIwXClCba_d4rp8_4.gif' width='200'>
 
 ##### NOW
 
