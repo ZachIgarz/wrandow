@@ -19,3 +19,6 @@ Jacques Rigaut, escribió: No olvides que yo no puedo verme, que mi papel se lim
 - 💬 Ping me about **design patterns**, **golang**, **testing**, **development**
 - 📫 Reach me: [twitter.com/WrandowR](https://twitter.com/....)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter and Formula 1 🏎 🏎
+
+
+  <img align='left' src='https://hd-wallpaper.wiki/wp-content/uploads/2022/02/japanese-aesthetic-wallpaper.jpg' width='500'>
