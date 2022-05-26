@@ -1,6 +1,6 @@
 ### Hi there | こんにちは | 안녕하세요 👋
 
-#### I'm a Backend Developer.  Golan Mage lvl 99
+#### I'm a Backend Developer.  Golang Mage lvl 99
 
 <img align='right' src='https://up.gc-img.net/post_img/2021/03/xKueHYnIwXClCba_d4rp8_4.gif' width='250'>
 
