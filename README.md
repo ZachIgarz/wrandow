@@ -10,7 +10,7 @@ Jacques Rigaut, escribió: No olvides que yo no puedo verme, que mi papel se lim
 
 ##### BIO
 
-- 🏢 I'm currently working at **IPCOM** Winner of the innovation challenge 2021
+- 🏢 Winner of the **IPCOM** innovation challenge 2021
 - ⚙️ I use daily: `.go` and a lot of cool things
 - 🌍 I'm mostly active within the **Golang Community**
 - 🌱 Learning all about **Open Source**
