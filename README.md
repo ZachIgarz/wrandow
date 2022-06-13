@@ -5,11 +5,6 @@
 <img align='right' src='https://up.gc-img.net/post_img/2021/03/xKueHYnIwXClCba_d4rp8_4.gif' width='250'>
 
 ##### NOW
-
-Jacques Rigaut, escribió: No olvides que yo no puedo verme, que mi papel se limita a ser el que mira el espejo.
-
-##### BIO
-
 - 🏢 Winner of the **IPCOM** innovation challenge 2021
 - ⚙️ I use daily: `.go` and a lot of cool things
 - 🌍 I'm mostly active within the **Golang Community**
