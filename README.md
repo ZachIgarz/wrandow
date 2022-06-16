@@ -1,6 +1,6 @@
 ### Hi there | こんにちは | 안녕하세요 👋
 
-#### I'm a Backend Developer.  Golang Mage lvl 99
+#### Senior Backend Developer. 
 
 <img align='right' src='https://up.gc-img.net/post_img/2021/03/xKueHYnIwXClCba_d4rp8_4.gif' width='250'>
 
@@ -11,7 +11,7 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design patterns**, **golang**, **testing**, **development**
 - 📫 Reach me: [twitter.com/WrandowR](https://twitter.com/....)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter and Formula 1 🏎 🏎
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
 <img align='left' src='https://hd-wallpaper.wiki/wp-content/uploads/2022/02/japanese-aesthetic-wallpaper.jpg' width='250'>
   
