@@ -2,7 +2,6 @@
 
 #### Senior Backend Developer. 
 
-<img align='right' src='https://up.gc-img.net/post_img/2021/03/xKueHYnIwXClCba_d4rp8_4.gif' width='250'>
 
 ##### NOW
 - 🏢 Winner of the **IPCOM** innovation challenge 2021
