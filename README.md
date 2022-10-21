@@ -13,6 +13,4 @@
 - 📫 Reach me: [twitter.com/WrandowR](https://twitter.com/....)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
-<img align='left' src='https://hd-wallpaper.wiki/wp-content/uploads/2022/02/japanese-aesthetic-wallpaper.jpg' width='250'>
-  
 
