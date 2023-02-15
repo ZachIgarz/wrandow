@@ -1,4 +1,4 @@
-### Hi there | こんにちは | 안녕하세요 👋
+### Hi there  | 안녕하세요 👋
 
 #### Senior Backend Developer. 
 
