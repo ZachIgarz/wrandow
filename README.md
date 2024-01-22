@@ -9,6 +9,5 @@
 - 🌍 I'm mostly active within the **Golang Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design patterns**, **golang**, **testing**, **development**
-- 📫 Reach me: [twitter.com/WrandowR](https://twitter.com/....)
 - ⚡️ Fun fact: I like fancy food, Diving under the sea, and Formula 1
 
