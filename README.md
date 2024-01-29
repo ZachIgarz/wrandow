@@ -1,8 +1,5 @@
 ### Hi there  | 안녕하세요 👋
 
-#### Senior Backend Developer. 
-
-
 ##### NOW
 - 🏢 Winner of the **IPCOM** innovation challenge 2021
 - ⚙️ I use daily: `.go` and a lot of cool things
